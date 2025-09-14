@@ -1,0 +1,4 @@
+{
+    // Never use PowerShell as the default shell
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
