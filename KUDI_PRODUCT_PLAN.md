@@ -53,6 +53,12 @@ KUDI aims to streamline UDI compliance, reduce manual effort, and minimize the r
 
 ---
 
+## GMDN Extraction and Compliance
+
+- GMDN is a numerical code. Ensure that this is also extracted from the GUDID API response.
+- GMDN© Term Code, Names and Definitions (*Terms of Use): GMDN® is a registered trademark of The GMDN Agency. All rights reserved. Used under licence from The GMDN Agency Ltd.
+
+
 # KUDI Product Q&A
 
 ## What types of medical devices or products will KUDI support?
